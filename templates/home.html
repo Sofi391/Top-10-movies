@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% block title %}Movies and Shows{% endblock %}
+{% block content %}
+<div style="background-image:url('https://www.subtraction.com/wp-content/uploads/2018/01/2018-01-04-2017-movies-watched.jpg');
+            height: 100vh;
+            width: 100%;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;">
+    <div class="container">
+        <h1 class="heading text-success">Rank Movies and Shows</h1>
+        <div class="container">
+            <div class="row">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <a href="{{url_for('top_10_movies')}}" class="btn btn-primary">Movies</a>
+                            <a href="{{url_for('top_10_shows')}}" class="btn btn-danger">Shows</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+{% endblock %}
