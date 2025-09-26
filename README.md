@@ -32,8 +32,8 @@ Hi! I’m Sofi, a Software Engineering student at **AASTU** and an **ALX backend
 I’m passionate about Python, web development, and building full-stack applications.  
 
 ### 🤳 Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
-[linkedin]: https://linkedin.com/in/sofoniyas-alebachew-bb876b33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+[linkedin]: https://linkedin.com/in/sofoniyas-alebachew-bb876b33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [github]: https://github.com/sofi391
